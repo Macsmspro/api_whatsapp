@@ -106,7 +106,6 @@ Plusieurs messages d'erreur peuvent se briquer comme suit
 }, {
 "message" : "Le corps du message est requis"
 }
-]
 }`
 Cette erreur est retournée avec un code `422` lorsque plusieurs données ne sont pas vérifiées à la fois `NULL`
 Les messages de réussite
@@ -114,9 +113,10 @@ Les messages de réussite
 "message" : "Message whatsapp envoyé avec succès au 229xxxxxxxx"
 }`
 
+Cette réponse est retournée avec un code` 200` lorsque le message a été envoyé sans aucun problème rencontré.
 
 
 
-
+`La taille totale des fichiers doit être inférieure ou égale à 5 MB`
 
 
