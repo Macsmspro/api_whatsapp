@@ -119,4 +119,4 @@ Cette réponse est retournée avec un code` 200` lorsque le message a été envo
 
 `La taille totale des fichiers doit être inférieure ou égale à 5 MB`
 
-
+`Créez un compte pour obtenir un token Macsmspro`
