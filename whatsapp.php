@@ -6,7 +6,7 @@ $url = "https://macsmspro.com/api/whatsapp.php";
 $fields = array(
     
     "name" => "xxxxx", // à remplacer par le nom du message
-    "phone" => "33xxxxxxxxx", // à remplacer par le numéro du destinataire
+    "phone" => "44xxxxxxxxx", // à remplacer par le numéro du destinataire
     "message" => "Mon message", // à remplacer par le message à envoyer
     "token" => "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", // à remplacer par votre token 
     "files" => array(
